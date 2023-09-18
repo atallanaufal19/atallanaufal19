@@ -5,7 +5,7 @@ I'm an undergraduate student at Telkom University majoring in Informatics
 - 🌼 I'm currently learning about how to analyze and visualize data with python  
 - 📊 I'm interested and enthusiastic about Machine learning and Data science  
 - 👾 Feel free to connect with me on LinkedIn https://www.linkedin.com/in/atalla-naufal-hakim-b9b006194/
-- 🌱 Pronouns: Lon/tong
+- 🌱 Pronouns: he/him
 
 
 <p align="left">
