@@ -10,7 +10,7 @@ I'm an undergraduate student at Telkom University majoring in Informatics
 
 <p align="left">
 <a href="https://github.com/atallanaufal19">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jovidialaviosa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=atallanaufal19&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atallanaufal19&layout=compact&langs_count=8&theme=highcontrast"/>
 </a>
 </p>
